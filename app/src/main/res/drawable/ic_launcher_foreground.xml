@@ -5,20 +5,12 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
     <group
-        android:scaleX="0.6"
-        android:scaleY="0.6"
-        android:translateX="21.6"
-        android:translateY="21.6">
-        <!-- Chat bubble background -->
+        android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
         <path
             android:fillColor="#FFFFFF"
-            android:pathData="M84,48C84,66.9 68.9,82 50,82L16,82L16,48C16,29.1 31.1,14 50,14C68.9,14 84,29.1 84,48Z"/>
-        <!-- MCA text -->
-        <path
-            android:fillColor="#3F51B5"
-            android:pathData="M30,45L70,45A2,2 0,0 1,72 47L72,49A2,2 0,0 1,70 51L30,51A2,2 0,0 1,28 49L28,47A2,2 0,0 1,30 45z"/>
-        <path
-            android:fillColor="#3F51B5"
-            android:pathData="M40,55L60,55A2,2 0,0 1,62 57L62,59A2,2 0,0 1,60 61L40,61A2,2 0,0 1,38 59L38,57A2,2 0,0 1,40 55z"/>
+            android:pathData="M54,0C24.18,0 0,24.18 0,54s24.18,54 54,54 54,-24.18 54,-54S83.82,0 54,0zM54,96c-23.196,0 -42,-18.804 -42,-42s18.804,-42 42,-42 42,18.804 42,42 -18.804,42 -42,42zM54,24c-16.569,0 -30,13.431 -30,30s13.431,30 30,30 30,-13.431 30,-30 -13.431,-30 -30,-30zM54,72c-9.941,0 -18,-8.059 -18,-18s8.059,-18 18,-18 18,8.059 18,18 -8.059,18 -18,18z"/>
     </group>
 </vector>
