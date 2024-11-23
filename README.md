@@ -180,7 +180,7 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 # 📧 Contact
 
 For any queries, please reach out to:
-- Project Maintainer - [email@example.com](mailto:abhiramak963@gmail.com)
+- Project Maintainer - [abhiramak963@gmail.com](mailto:abhiramak963@gmail.com)
 
 ---
 <div align="center">
