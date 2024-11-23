@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MCA Bot</string>
+    <string name="type_message">Type your message</string>
+    <string name="send">Send</string>
+    <string name="welcome_message">Hello! I\'m the MCA Department Assistant. How can I help you today? Feel free to ask me anything about the MCA department, courses, or upload PDF documents for analysis.</string>
+    <string name="error_message">I apologize, but something unexpected happened. Please try again in a moment.</string>
+    <string name="network_error">Please check your internet connection and try again.</string>
+    <string name="timeout_error">The request took too long to process. Please try again.</string>
+    <string name="auth_error">There\'s an issue with the service authentication. Please contact support.</string>
+    <string name="upload_pdf">Upload PDF</string>
+    <string name="pdf_processing">Processing your PDF document. Please wait...</string>
+    <string name="pdf_error">Sorry, I encountered an error while processing the PDF. Please try another file.</string>
+    <string name="hint_type_message">Type your message here...</string>
+</resources>
