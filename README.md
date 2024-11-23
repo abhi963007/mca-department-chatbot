@@ -1,9 +1,8 @@
 ```markdown
-# 📚 MCA Department Virtual Interactive Chatbot
+📚 MCA Department Virtual Interactive Chatbot
 
 An intelligent chatbot system designed to help users access MCA department-related information through natural language queries.
-
-## ✨ Features
+✨ Features
 
 - 🔒 Admin-controlled content management
 - 🧠 Natural language query processing
@@ -34,9 +33,9 @@ mca-bot/
 └── README.md             # 📖 Project documentation
 ```
 
-## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
-### 📋 Prerequisites
+📋 Prerequisites
 
 - 📱 Android Studio (latest version)
 - ☕ JDK 11 or higher
@@ -44,7 +43,7 @@ mca-bot/
 - 🔥 Firebase account
 - 🛠 Git
 
-### 🚀 Android App Setup
+🚀 Android App Setup
 
 1. **Clone the repository:**
 ```bash
@@ -68,7 +67,7 @@ cd mca-bot
    - Click Run in Android Studio (or press Shift + F10)
    - Select your device and click OK
 
-### 🌐 Backend Setup
+🌐 Backend Setup
 
 1. **Navigate to backend directory:**
 ```bash
@@ -111,14 +110,14 @@ python app.py
 python -m pytest
 ```
 
-## 📱 Minimum Requirements
+📱 Minimum Requirements
 
 - 📱 Android 6.0 (API level 23) or higher
 - 🧠 2GB RAM
 - 💾 100MB free storage
 - 🌐 Internet connection for full functionality
 
-## 🛠 Technologies Used
+🛠 Technologies Used
 
 - 📱 Android (Java)
 - 🔥 Firebase (Authentication, Storage)
@@ -127,7 +126,7 @@ python -m pytest
 - 📄 PDF processing libraries
 - 🧠 Natural Language Processing tools
 
-## 🌟 Requirements
+🌟 Requirements
 
 - 📱 Android Studio
 - 🐍 Python 3.8+
